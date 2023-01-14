@@ -1,0 +1,52 @@
+Python Basics
+
+
+1. Data Types: str, int, float, complex, bytes, bool, sequence types (list, set, tuple, range, dict)
+2.  Immutable: we can’t change the value
+We have replace() function, but it behaves like temp variable
+3. Slicing and dicing 
+
+List are mutable, which means the items can be modified.
+But, the type, string, range are immutable and will throw type error.
+
+Few predefined functions
+
+.count(),.find(),.isdigit(),.replace()
+
+1. Shallow copy and deep copy
+
+To find whether something is present or not ( the value in string:)
+Instead of find, we can use “in” or “not in” in print function,
+
+str = "abc bcd efd tgh hyh"
+print("abc" in str)
+print("ttt" not in str)
+
+
+List:
+
+Append = inserts at the end
+insert= it will insert in the specific index
+Pop and remove
+Clear and delete
+Sort and reverse
+
+Tuple:
+Same as list, but immutable
+
+Set:
+Same as list, but no duplicates allowed, and cannot guarantee in order
+
+Conditional Statements:
+ If loop:
+
+Loop:
+For, while, do while
+
+String and int concatenation:
+
+https://www.journaldev.com/23642/python-concatenate-string-and-int
+
+
+
+
